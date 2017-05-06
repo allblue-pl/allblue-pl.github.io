@@ -1,2 +1,8 @@
+# Site
+title: AllBlue Studio
+description: >
+    AllBlue stuff.
+
+# Config
 theme: jekyll-theme-architect
 include: [ '_blog', '_pages' ]
